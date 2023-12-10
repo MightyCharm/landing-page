@@ -1,6 +1,9 @@
 # landing-page
 The Odin Project: Landing Page (Foundations Course)
 
+I tried my best but at the moment but the side only looks good in a specific width.
+I refactured the code complete, it now looks better than in the first attempt. But still not happy about it.
+
 Credits for images:
 Image by <a href="https://pixabay.com/users/noname_13-2364555/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1856383">NoName_13</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1856383">Pixabay</a>
 
